@@ -9,7 +9,7 @@ I am a:
 #### Contact Information:
 
 - Email: [vinicius@myriaddev.me](mailto:vinicius@myriaddev.me)
-- Discord: `Vinícius#0420`
+- Discord: `ViníciusG#0507`
 
 #### Projects:
 
