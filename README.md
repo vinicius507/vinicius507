@@ -1,10 +1,19 @@
-### Vinícius Oliveira
+# Hey, I'm Vini! 👋
 
-I am a:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--myriad--codes-blue)](https://linkedin.com/in/vinicius-myriad-codes)
+[![GitHub](https://img.shields.io/badge/GitHub-vinicius507-blue)](https://github.com/vinicius507)
 
-- Cadet at [École 42 São Paulo](https://42sp.org.br/)
+I'm a software engineer with a passion for building scalable and reliable systems. I have experience in web development, infrastructure as code, and DevOps. I'm also a strong advocate for open source software and I'm always looking for new ways to contribute to the community.
 
-#### Contact Information:
+## Skills
 
-- Email: [vinicius@myriaddev.me](mailto:vinicius@myriaddev.me)
-- Discord: `Vinicius Gonçalves#9614`
+- Programming Languages: C/C++, Python, JavaScript/TypeScript, Golang, Bash
+- DevOps Tools: Docker, Kubernetes, Nix, Ansible
+- Version Control Tools: Git
+- Operating Systems: Linux
+- Soft Skills: Communication, Teamwork, Problem Solving
+
+## Contact
+
+- Email: vinicius@myriad.codes
+- LinkedIn: https://linkedin.com/in/vinicius-myriad-codes
